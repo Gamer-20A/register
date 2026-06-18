@@ -1,5 +1,5 @@
 {
-    "description": "This domain is to access my nextcloudpi instance on my raspberry pi publicly anywhere using cloudflare proxy",
+    "description": "This domain is to access my nextcloudpi instance on my raspberry pi 4 publicly anywhere using cloudflare proxy",
     "domain": "is-cool.dev",
     "subdomain": "arg4020",
     "owner": {
